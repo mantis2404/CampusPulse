@@ -13,17 +13,6 @@ This project is built around a series of investigative and modeling tasks design
 
 ---
 
-## 📁 Contents
-
-- `data/`: Raw and cleaned datasets (with sensitive information anonymized)
-- `notebooks/`: Jupyter notebooks for each major phase of the project
-- `eda/`: Visualizations and insights from exploratory analysis
-- `models/`: Classification models and evaluation metrics
-- `shap_analysis/`: SHAP plots and interpretations for model explainability
-- `utils/`: Custom functions for preprocessing, imputation, and visualization
-
----
-
 ## 🧠 Key Highlights
 
 ### 1. Feature Identification
@@ -64,12 +53,6 @@ Each insight is backed by visualizations (bar plots, violin plots, scatter plots
 - **Python** (Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Seaborn, Matplotlib, Plotly)
 - **Jupyter Notebooks**
 - **Git & GitHub** for version control
-
----
-
-## 🤝 Acknowledgements
-
-Thanks to the Student Wellness and Experience Board for providing the anonymized dataset and guiding the direction of this analysis.
 
 ---
 
